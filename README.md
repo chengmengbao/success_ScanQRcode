@@ -1,0 +1,2 @@
+# success_ScanQRcode
+raspiberry_python_scanQRcode
